@@ -134,7 +134,7 @@ export default function Home() {
             </div>
             <div className="row g-4">
               <div className="col-md-4"><div className="review-card"><div className="stars">★★★★★</div><h6 className="fw-bold mt-3">مریم احمدی</h6><p className="text-muted mb-0">کیک تولد بسیار تازه و خوش‌طعم بود. ثبت سفارش هم خیلی ساده انجام شد.</p></div></div>
-              <div className="col-md-4"><div className="review-card"><div className="stars">★★★★★</div><h6 className="fw-bold mt-3">علی رضایی</h6><p className="text-muted mb-0"> محصول مورد نظرم را سریع پیدا کردم.</p></div></div>
+              <div className="col-md-4"><div className="review-card"><div className="stars">★★★★★</div><h6 className="fw-bold mt-3">توحید مستخدمی</h6><p className="text-muted mb-0"> محصول مورد نظرم را سریع پیدا کردم.</p></div></div>
               <div className="col-md-4"><div className="review-card"><div className="stars">★★★★☆</div><h6 className="fw-bold mt-3">نگار کریمی</h6><p className="text-muted mb-0">سفارشم به سرعت بدستم رسید.</p></div></div>
             </div>
           </div>
