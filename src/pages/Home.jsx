@@ -119,7 +119,7 @@ export default function Home() {
                 <div className="feature-card">
                   <div className="feature-icon">📝</div>
                   <h5 className="fw-bold">ثبت سفارش ساده</h5>
-                  <p className="text-muted mb-0">تنها در چند دقیقه سفارش خود را ثبت کنید و باقی کار را به ما بسپارید.</p>
+                  <p className="text-muted mb-0">تنها در چند دقیقه سفارش خود را ثبت کنید، و باقی کار را به ما بسپارید.</p>
                 </div>
               </div>
             </div>
